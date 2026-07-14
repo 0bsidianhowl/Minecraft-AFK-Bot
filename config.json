@@ -1,5 +1,5 @@
 {
-  "serverHost": "example.aternos.me",
+  "serverHost": "obsidianhowl.aternos.me",
   "serverPort":   "serverPort": 42473,
   "botUsername": "MyBot",
   "botChunk": 1
